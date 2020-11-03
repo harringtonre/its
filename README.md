@@ -1,1 +1,2 @@
-# Harrington Re IT Services (ITS)
+# IT Services (ITS)
+## Harrington Re 
